@@ -204,7 +204,7 @@ mount_on_start = 1
 
 [tilemap]
 max_count = 16
-max_tile_count = 65536
+max_tile_count = 16384
 
 [engine]
 run_while_iconified = 0
